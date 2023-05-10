@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist in training. Biomedical engineer. Jazz enthusiast. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Technion grad. Currently TAing for BrainStation, where I refined my data skillset. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[burrowsavery@gmail.com](mailto:burrowsavery@gmail.com)
